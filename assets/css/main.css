@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Oleo+Script:400|Open+Sans:300,300italic,600,600italic,800");
+@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&family=Montserrat&display=swap');
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -89,7 +89,7 @@ input, select, textarea {
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
 		background-size: 100% 30em, auto;
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 13pt;
 		color: #0d0c36;
 		font-weight: 300;
@@ -108,7 +108,7 @@ input, select, textarea {
 		}
 
 	input, select, textarea {
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 13pt;
 		color: #0d0c36;
 		font-weight: 300;
@@ -1933,7 +1933,7 @@ input, select, textarea {
 			background: #e0a722;
 			color: #fff;
 			border-radius: 6px;
-			font-family: 'Oleo Script', serif;
+			font-family: 'Bacasime Antique', serif;
 			font-weight: 400;
 			padding: 0.25em 0.2em 0.25em 0.2em;
 			font-size: 3.25em;
