@@ -1481,8 +1481,7 @@ input, select, textarea {
 	.featured-book {
 		text-align: center;
 		font-size: 2.5em;
-		margin: 1em;
-		margin-left: 30px;
+		margin: 50px auto 5px 30px;
 	}
 /* Forms */
 
