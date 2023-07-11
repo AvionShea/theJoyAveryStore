@@ -1483,6 +1483,10 @@ input, select, textarea {
 		font-size: 2.5em;
 		margin: 50px auto 5px 30px;
 	}
+
+	.upcoming-book-title{
+		    margin: 20px 0 0.25em 0;
+	}
 /* Forms */
 
 	form label {
